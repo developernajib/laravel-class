@@ -1,4 +1,4 @@
-@extends('layouts.body')    
+@extends('layouts.old.body')    
 
 @section('products')
     <h5 class="modal-title">Edit Product</h5>

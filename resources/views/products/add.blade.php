@@ -1,4 +1,4 @@
-@extends('layouts.body')
+@extends('layouts.old.body')
 
 @section('products')
 <h3>Add product</h3>

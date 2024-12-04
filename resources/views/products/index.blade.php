@@ -1,4 +1,4 @@
-@extends('layouts.body')
+@extends('layouts.old.body')
 
 
 @section('products')
